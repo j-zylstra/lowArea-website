@@ -1,0 +1,75 @@
+
+
+.main-pic  {
+     text-align: center;
+     padding-top: 5rem;
+     padding-left: auto;
+     padding-right: auto;
+     padding-bottom: 5rem;
+     
+}
+
+body {
+    background-image: url('https://github.com/j-zylstra/lowArea-website.git/pics/philippe-murray-pietsch-AARR7OQJYsY-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Poppins';
+
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    color: black
+    ;
+    font-weight: 700;
+    font-family:'Poppins';
+    padding-bottom: 5rem;
+    line-height: 3px;
+    letter-spacing: 1px;
+    text-decoration: wavy;
+}
+
+p {
+   
+    margin: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    border-color: coral;
+    border: 5px solid;
+    max-width: 20rem;
+    background-color: white;
+    
+}
+
+a {
+    color: coral;
+    line-height: 3px;
+    font-weight: 400;
+    padding-bottom: 2rem;
+}
+#blackchevy {
+    width: 900px;
+    height: 500px;
+}
+
+.boxmodel {
+
+    text-align: center;
+    width:24%;
+    border: 5px solid white;
+    background-color: #1E5071;
+    display: inline-block;
+    justify-content: center;
+    padding: 5px 40px ;
+    margin-left: 30px;
+    
+    
+
+}
+
+
